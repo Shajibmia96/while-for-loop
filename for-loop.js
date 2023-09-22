@@ -19,3 +19,12 @@ for(i=0;
         console.log("Display number of ")
         console.log(i)
     }
+
+
+for(var i =0; i<34; i+=2){
+    console.log(i)
+}
+
+for (var i = 1 ; i<40; i+=2){
+    console.log(i)
+}
