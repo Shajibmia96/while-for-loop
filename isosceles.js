@@ -11,3 +11,11 @@ else if(a==c){
 else{
     console.log('line b and c is equal')
 }
+
+// check isosceles
+if(a==b || a==c || b==c){
+    console.log('Isosceles')
+}
+else{
+    console.log('This Triangles is Isosceles')
+}
